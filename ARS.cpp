@@ -535,9 +535,9 @@ void Menu::displayMenu()
             cout << "\n\nThank you come again\n\n\n";
             exit(0);
         }
-        cout << "   PROCESS COMPLETED...";
-        cout << "\n   THANKS FOR VISIT, HAVE A GOOD DAY ...\n";
-        cout << "***************************************************************************************************************************************" << endl;
+        cout << "\n\n   PROCESS COMPLETED...";
+        cout << "\n\n   THANKS FOR VISIT, HAVE A GOOD DAY ...\n";
+        cout << "***********************************************************************************************************" << endl;
         cout << endl;
 
     } while (menu != 5);
